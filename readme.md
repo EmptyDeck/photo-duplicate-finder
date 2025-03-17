@@ -1,6 +1,6 @@
 Summary: Run the script, enter your folder path when prompted, and it will identify duplicates (images/videos) and move them to a separate “duplicated_photos” folder; you can adjust the “automatic move”(delete_threshold) and “double-check”(check_threshold) thresholds in the script’s final lines.
 
-![Use Demo Gif](readme/demo.gif)
+![Use Demo Gif](demo.gif)
 
 # Duplicate Image & Video Finder — **README**
 
